@@ -4,6 +4,7 @@ go 1.19
 
 require (
 	github.com/aws/aws-lambda-go v1.33.0
+	github.com/michimani/aws-lambda-api-go v0.1.0
 	github.com/rs/zerolog v1.28.0
 )
 
